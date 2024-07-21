@@ -1,0 +1,8 @@
+[tools]
+"go:github.com/DarthSim/hivemind" = "1.0.6"
+"cargo:eza" = "0.18.21"
+"npm:prettier" = "3.3.2"
+"pipx:psf/black" = "24.4.1"
+"pipx:yamllint" = "1.35.0"
+"spm:tuist/tuist" = "4.21.1"
+"ubi:goreleaser/goreleaser" = "v2.0.1"

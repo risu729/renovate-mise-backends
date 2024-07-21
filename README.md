@@ -1,17 +1,13 @@
-# minimal-reproduction-template
-
-First, read the [Renovate minimal reproduction instructions](https://github.com/renovatebot/renovate/blob/main/docs/development/minimal-reproductions.md).
-
-Then replace the current `h1` with the Renovate Issue/Discussion number.
+# 30282
 
 ## Current behavior
 
-Explain the current behavior here.
+Nothing detected and updated.
 
 ## Expected behavior
 
-Explain the expected behavior here.
+The tool versions in `.mise.toml` are detected with the backends and updated.
 
 ## Link to the Renovate issue or Discussion
 
-Put your link to the Renovate issue or Discussion here.
+https://github.com/renovatebot/renovate/discussions/30282

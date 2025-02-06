@@ -7,7 +7,7 @@ python = {version='3.11', virtualenv='.venv'}
 "asdf:rust" = "1.82.0"
 "vfox:scala" = "3.5.2"
 "aqua:act" = "0.2.70"
-"aqua:BurntSushi/ripgrep" = "14.1.0"
+"aqua:BurntSushi/ripgrep" = "14.1.1"
 "aqua:cli/cli" = "v2.64.0"
 "cargo:eza" = "0.18.21"
 "cargo:https://github.com/eza-community/eza" = "tag:v0.20.17"

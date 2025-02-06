@@ -28,4 +28,4 @@ python = {version='3.11', virtualenv='.venv'}
 "ubi:cargo-bins/cargo-binstall" = { tag_regex = "^\\d+\\.\\d+\\.", version = "1.0.0" }
 "ubi:cargo-bins/cargo-binstall[tag_regex=^\\d+\\.]" = "1.0.0"
 'ubi:cargo-bins/cargo-binstall[tag_regex=^\d+\.\d+\.]' = { tag_regex = '^\d+\.', version = "1.0.0" }
-java = '21.0.2'
+java = '21.0.6+7.0.LTS'

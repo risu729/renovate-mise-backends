@@ -6,7 +6,7 @@ python = {version='3.11', virtualenv='.venv'}
 "core:node" = "16"
 "asdf:rust" = "1.82.0"
 "vfox:scala" = "3.5.2"
-"aqua:act" = "0.2.70"
+"aqua:act" = "0.2.72"
 "aqua:BurntSushi/ripgrep" = "14.1.0"
 "aqua:cli/cli" = "v2.64.0"
 "cargo:eza" = "0.18.21"
